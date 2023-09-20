@@ -1,0 +1,27 @@
+.speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+}
+
+
+div.first:hover{
+    color:blue;
+    text-shadow: 2px 2px 5px  red;
+    
+}
+div.second:hover{
+    color:brown;
+    text-shadow: 2px 2px 5px  red;
+
+  
+    
+}
+div.third:hover{
+    color:green;
+    text-shadow: 2px 2px 5px  red;
+}
+div.fouth:hover{
+    color:pink;
+    text-shadow: 2px 2px 5px  red;
+}
